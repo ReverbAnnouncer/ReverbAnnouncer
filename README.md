@@ -1,14 +1,32 @@
-# me.
+# <h1> Hello <img src="https://raw.githubusercontent.com/coofcookie/coofcookie/master/wave.gif" width="30px"></h1>
 
-- hello there!!!!!!! im @ReverbAnnouncer
-> an amazing specimen
+I'm clumsy, but i'm clumsyreverb!
 
-- i'm interested in coding, art and animations but we all know this is an open-source code sharing website
-- right now, i'm learning lua, and C++.
-- 📫 reach me on instagram @clumsyreverb, twitter @yo_revguy or email jayn@citloco.com
+# 🔧 Languages
+- c#
+- lua-u
+- javascript
+- python
 
-## skills
-coded with lua for about 5 years recently started with C++!
+# 🖥 Operating Systems
+- macOS
+- Zorin/Manjaro Linux (occasionally)
+- Windows
+- TempleOS (occasionally)
+
+# 🧑‍💻 IDE
+- **Sublime Text**
+- **Visual Studio Code**
+- Brackets 
+- Roblox Studio Code Editor
+
+___
+
+## ⼓ Wrapped
+![clumsyreverb_2021_github_review](https://user-images.githubusercontent.com/63180654/144736635-ae09e7bd-e2fd-4956-be67-5007b2764601.png)
+
+
+*waving gif by coofcookie*
 
 <!---
 ReverbAnnouncer/ReverbAnnouncer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
