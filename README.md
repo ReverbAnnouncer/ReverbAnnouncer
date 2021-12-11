@@ -5,7 +5,6 @@ I'm clumsy, but i'm clumsyreverb!
 # 🔧 Languages
 - c# (since 2019)
 - lua-u (since 2015)
-- javascript (since 2019)
 - python (since 2020)
 - c (since 2018)
 - kotlin (since 2021)
