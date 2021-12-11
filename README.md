@@ -2,13 +2,16 @@
 
 I'm clumsy, but i'm clumsyreverb!
 
+# What do I do?
+I write code! I make cartoon art too.
+
 # 🔧 Languages
-- c# (since 2019)
-- lua-u (since 2015)
+- c# (since 2019) [FREQUENT]
+- lua-u (since 2015) [FREQUENT]
 - python (since 2020)
 - c (since 2018)
 - kotlin (since 2021)
-- swift (since 2020)
+- swift (since 2020) [FREQUENT]
 
 # 🖥 Operating Systems
 - macOS
@@ -24,8 +27,9 @@ I'm clumsy, but i'm clumsyreverb!
 
 ___
 
-## ⼓ Wrapped
-![clumsyreverb_2021_github_review](https://user-images.githubusercontent.com/63180654/144736635-ae09e7bd-e2fd-4956-be67-5007b2764601.png)
+## ⼓ What about me, like what work am I...
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=clumsyreverb&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=clumsyreverb&langs_count=5&theme=tokyonight)]()
 
 
 *waving gif by coofcookie*
