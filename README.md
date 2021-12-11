@@ -9,6 +9,7 @@ I'm clumsy, but i'm clumsyreverb!
 - python
 - c++
 - kotlin
+- swift
 
 # 🖥 Operating Systems
 - macOS
