@@ -12,9 +12,9 @@ I'm clumsy, but i'm clumsyreverb!
 
 # 🖥 Operating Systems
 - macOS
-- Zorin/Manjaro Linux (occasionally)
+- Manjaro Linux
 - Windows
-- TempleOS (occasionally)
+- Kali Linux (occasionally)
 
 # 🧑‍💻 IDE
 - **Sublime Text**
@@ -29,6 +29,7 @@ ___
 
 
 *waving gif by coofcookie*
+*anyone heard of TempleOS?*
 
 <!---
 ReverbAnnouncer/ReverbAnnouncer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
