@@ -7,6 +7,8 @@ I'm clumsy, but i'm clumsyreverb!
 - lua-u
 - javascript
 - python
+- c++
+- java
 
 # 🖥 Operating Systems
 - macOS
