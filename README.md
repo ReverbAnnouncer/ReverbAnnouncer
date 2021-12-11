@@ -8,7 +8,7 @@ I'm clumsy, but i'm clumsyreverb!
 - javascript
 - python
 - c++
-- java
+- kotlin
 
 # 🖥 Operating Systems
 - macOS
