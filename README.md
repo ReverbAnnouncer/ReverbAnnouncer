@@ -3,13 +3,13 @@
 I'm clumsy, but i'm clumsyreverb!
 
 # 🔧 Languages
-- c# (2017)
-- lua-u (2015)
-- javascript (2019)
-- python (2020)
-- c++ (2021)
-- kotlin (2021)
-- swift (2020)
+- c# (since 2019)
+- lua-u (since 2015)
+- javascript (since 2019)
+- python (since 2020)
+- c (since 2018)
+- kotlin (since 2021)
+- swift (since 2020)
 
 # 🖥 Operating Systems
 - macOS
