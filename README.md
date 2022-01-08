@@ -9,8 +9,7 @@ I write code! I make cartoon art too.
 - c# (since 2019) [FREQUENT]
 - lua-u (since 2015) [FREQUENT]
 - python (since 2020)
-- c (since 2018)
-- kotlin (since 2021)
+- typescript (since 2022)
 - swift (since 2020) [FREQUENT]
 
 # 🖥 Operating Systems
