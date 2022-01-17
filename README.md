@@ -6,23 +6,21 @@ I'm clumsy, but i'm clumsyreverb!
 I write code! I make cartoon art too.
 
 # 🔧 Languages
-- c# (since 2019) [FREQUENT]
+- c# (since 2018)
 - lua-u (since 2015) [FREQUENT]
 - python (since 2020)
-- typescript (since 2022)
+- typescript + js (since 2022)
 - swift (since 2020) [FREQUENT]
 
 # 🖥 Operating Systems
 - macOS
-- Manjaro Linux
+- Manjaro Linux (occasionally)
 - Windows
 - Kali Linux (occasionally)
 
 # 🧑‍💻 IDE
 - **Sublime Text**
 - **Visual Studio Code**
-- Brackets 
-- Roblox Studio Code Editor
 
 ___
 
@@ -32,6 +30,7 @@ ___
 
 
 *waving gif by coofcookie*
+--
 *anyone heard of TempleOS?*
 
 <!---
