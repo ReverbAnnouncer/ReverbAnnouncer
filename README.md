@@ -6,16 +6,9 @@ I'm clumsy, but i'm clumsyreverb!
 I write code! I make cartoon art too.
 
 # 🔧 Languages
-- c# (since 2018)
-- lua-u (since 2015) [FREQUENT]
-- python (since 2020)
-- swift (since 2020) [FREQUENT]
-
-# 🖥 Operating Systems
-- macOS
-- Manjaro Linux (occasionally)
-- Windows
-- Kali Linux (occasionally)
+- lua-u (since 2018) [FREQUENT]
+- c++ (since 2022)
+- swift (since 2022) [FREQUENT]
 
 # 🧑‍💻 IDE
 - **Sublime Text**
